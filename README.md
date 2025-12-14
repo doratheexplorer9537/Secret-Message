@@ -2,8 +2,16 @@
 
 <html lang="en">
 
-<body style="background-color: #fdf6e3; color: #3b2f2f; margin: 0;padding:40px;">
 
+<body style="
+  background-color: #fdf6e3;
+  color: #3b2f2f;
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+">
 
 
     
