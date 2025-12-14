@@ -2,15 +2,41 @@
 
 <html lang="en">
 <body style="
-  background-color: #e7dec8;
-  color: #2a1f1f;
-  margin: 0;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  margin:0;
+  min-height:100vh;
+  background-color:#e7dec8;
+  color:#2a1f1f;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  position:relative;
+  overflow:hidden;
 ">
 
+  <!-- background hearts -->
+  <div style="
+    position:absolute;
+    font-size:200px;
+    color:rgba(120, 60, 60, 0.12);
+    top:10%;
+    left:5%;
+  ">♥</div>
+
+  <div style="
+    position:absolute;
+    font-size:260px;
+    color:rgba(120, 60, 60, 0.10);
+    bottom:5%;
+    right:8%;
+  ">♥</div>
+
+  <!-- content -->
+  <div style="max-width:700px; text-align:center;">
+    <h1>Poem</h1>
+    <p>Your words breathe here.</p>
+  </div>
+
+</body>
     
     <p style="color:#FFD6D6;">In English, we say, I can't stop thinking about you.
    
