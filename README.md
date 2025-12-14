@@ -2,7 +2,7 @@
 
 <html lang="en">
 
-<body style="background-color: #1e1e2f; margin: 0;">
+<body style="background-color: #fdf6e3; color: #3b2f2f; margin: 0;padding:40px;">
 
 
 
