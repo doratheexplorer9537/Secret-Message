@@ -4,7 +4,7 @@
 <body style="
   margin:0;
   min-height:100vh;
-  background-color:#e7dec8;
+  background-color:#0f172a;
   color:#2a1f1f;
   display:flex;
   justify-content:center;
