@@ -40,7 +40,7 @@ and I don't mean to move too fast, </p>
 And I'll probably never say any of this,
 and I should probably get some sleep.</p>
 <p style="color:#FFBE76 ;"  >It's just that suddenly everything that's significant to you is significant to me."</p>
-<p>~Niraj</p>
+<p>~Nisarg</p>
 
   <div style="font-size: 80px; color: rgba(255, 192, 203, 0.5); line-height: 1; margin-top: -10px;">
     ♥
