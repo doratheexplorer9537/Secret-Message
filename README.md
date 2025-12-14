@@ -1,41 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Poem</title>
-</head>
+<head>< 
 
-<body style="
-  margin:0;
-  min-height:100vh;
-  background-color:#0f172a;
-  color:#e5e7eb;
-  display:flex;
-  justify-content:center;
-  align-items:center;
-  position:relative;
-  overflow:hidden;
-">
-
-  <!-- background hearts -->
-  <div style="
-    position:absolute;
-    font-size:220px;
-    color:rgba(255, 182, 193, 0.12);
-    top:8%;
-    left:6%;
-  ">♥</div>
-
-  <div style="
-    position:absolute;
-    font-size:280px;
-    color:rgba(255, 192, 203, 0.10);
-    bottom:6%;
-    right:8%;
-  ">♥</div>
-
-  <!-- content -->
-  <div style="max-width:700px; text-align:center;">
     <h1>Poem</h1>
     <p style="color:#FFD6D6;">In English, we say, I can't stop thinking about you.
    
