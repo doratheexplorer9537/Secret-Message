@@ -1,6 +1,10 @@
-
-
+<!DOCTYPE html>
 <html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Poem</title>
+</head>
+
 <body style="
   margin:0;
   min-height:100vh;
@@ -33,9 +37,6 @@
   <!-- content -->
   <div style="max-width:700px; text-align:center;">
     <h1>Poem</h1>
-    <p>Your words breathe here.</p>
-  </div>
- 
     <p style="color:#FFD6D6;">In English, we say, I can't stop thinking about you.
    
     In poetry, we say, I know we've only just met,and I don't mean to move too fast,</p>
@@ -70,7 +71,7 @@ and I don't mean to move too fast, </p>
 And I'll probably never say any of this,
 and I should probably get some sleep.</p>
 <p style="color:#FFBE76 ;"  >It's just that suddenly everything that's significant to you is significant to me."</p>
+    
 
-  </main>
 </body>
 </html>
