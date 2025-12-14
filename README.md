@@ -17,20 +17,26 @@
 <p style="color: #ff5733;">Custom orange</p>
 <p style="color: #6a0dad;">Purple vibes</p>
     
-    <p style="color:#FFD6D6;">In English, we say, I can't stop thinking about you.In poetry, we say, I know we've only just met,and I don't mean to move too fast,</p>
+    <p style="color:#FFD6D6;">In English, we say, I can't stop thinking about you.
+   
+    In poetry, we say, I know we've only just met,and I don't mean to move too fast,</p>
     
 <p> but I couldn't sleep last night because I don't know your middle name
 or how you take you for coffee.
+
+  
 And for some reason, there is nothing in the world that I would like to know more.</p>    
 
 <p> Except maybe how your hair looks when it's messy in the morning.
 Or what makes you laugh until you cry.
 Or what makes you laugh when you're crying.
+  
 Either, or both. Or. All of those facts would be fine.</p>
 
 <p> And I know we only just met,
 and I don't mean to move too fast,
 but I couldn't focus this morning </p>
+
 
 
 <p> because I need to know your preference in take out food.
