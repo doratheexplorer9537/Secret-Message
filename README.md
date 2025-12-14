@@ -1,18 +1,15 @@
 
 
 <html lang="en">
-
-
 <body style="
-  background-color: #fdf6e3;
-  color: #3b2f2f;
+  background-color: #e7dec8;
+  color: #2a1f1f;
   margin: 0;
   min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
 ">
-
 
     
     <p style="color:#FFD6D6;">In English, we say, I can't stop thinking about you.
