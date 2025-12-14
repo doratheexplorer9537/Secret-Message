@@ -5,7 +5,7 @@
   margin:0;
   min-height:100vh;
   background-color:#0f172a;
-  color:#2a1f1f;
+  color:#e5e7eb;
   display:flex;
   justify-content:center;
   align-items:center;
@@ -16,17 +16,17 @@
   <!-- background hearts -->
   <div style="
     position:absolute;
-    font-size:200px;
-    color:rgba(120, 60, 60, 0.12);
-    top:10%;
-    left:5%;
+    font-size:220px;
+    color:rgba(255, 182, 193, 0.12);
+    top:8%;
+    left:6%;
   ">♥</div>
 
   <div style="
     position:absolute;
-    font-size:260px;
-    color:rgba(120, 60, 60, 0.10);
-    bottom:5%;
+    font-size:280px;
+    color:rgba(255, 192, 203, 0.10);
+    bottom:6%;
     right:8%;
   ">♥</div>
 
@@ -35,9 +35,7 @@
     <h1>Poem</h1>
     <p>Your words breathe here.</p>
   </div>
-
-</body>
-    
+ 
     <p style="color:#FFD6D6;">In English, we say, I can't stop thinking about you.
    
     In poetry, we say, I know we've only just met,and I don't mean to move too fast,</p>
